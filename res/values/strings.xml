@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SOLITAIREActivity!</string>
+    <string name="app_name">纸牌游戏</string>
+    <string name="str_goback">回主菜单</string>
+    <string name="str_restart">重新开始</string>
+    <string name="about_title">纸牌游戏</string>
+    <string name="about_content1"></string>
+
+</resources>

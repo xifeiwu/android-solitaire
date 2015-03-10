@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/item_goback" 
+  android:title="@string/str_goback"
+  android:icon="@drawable/goback">
+  </item>
+  <item android:id="@+id/item_restart" 
+  android:title="@string/str_restart"
+  android:icon="@drawable/refresh">
+  </item>
+</menu>

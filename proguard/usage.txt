@@ -1,0 +1,21 @@
+wxf.solitaire.Card:
+    public static final int EHearts
+    public static final int EDiamond
+    public static final int ESpades
+    public static final int EClub
+    30:33:public boolean isInRect(int,int)
+wxf.solitaire.DeckControl:
+    39:43:public void putCard(int,int,android.graphics.Bitmap)
+wxf.solitaire.R
+wxf.solitaire.R$attr
+wxf.solitaire.R$drawable
+wxf.solitaire.R$id
+wxf.solitaire.R$layout
+wxf.solitaire.R$string
+wxf.solitaire.SOLITAIREActivity:
+    public static final int MENUVIEW
+    public static final int SETTINGVIEW
+    public static final int SCOREVIEW
+    public static final int ABOUTVIEW
+    public static final int GAMEVIEW
+    public static final int CLIPBMPVIEW
